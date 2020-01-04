@@ -1,0 +1,5 @@
+open ftp://user:password@dominio
+cd "cartella_destinazione"
+put "path_file"
+close
+bye
