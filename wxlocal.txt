@@ -1,0 +1,47 @@
+%stationname%
+%time%
+%date%
+------SEZIONE TEMP-------- (riga 04)
+%temp%
+%maxtemp%
+%maxtempt%
+%mintemp%
+%mintempt%
+%heati%
+%maxheat%
+%maxheatt%
+%windch%
+%minwindch%
+%minwindcht%
+------SEZIONE UMID-------- (riga 16)
+%hum%
+%highhum%
+%highhumt%
+%lowhum%
+%lowhumt%
+------SEZIONE DEW-------- (riga 22)
+%dew%
+%maxdew% 
+%maxdewt%
+%mindew%
+%mindewt%
+------SEZIONE BARO-------- (riga 28)
+%baro%
+%highbaro%
+%highbarot%
+%lowbaro%
+%lowbarot%
+------SEZIONE VENTO--------- (riga 34)
+%gustspeedinkmh%
+%dirlabel%
+%todaygustspeedinkmh%
+%maxgstdirectionletter%
+%maxgstt%
+------SEZIONE PRECIPITAZIONI------ (riga 40)
+%dayrn%
+%rainlasthourmm%
+%maxrainratehr%
+%maxrainratetime%
+%monthrn%
+%yearrn%
+------- SOFTWARE SORGENTE: Weather Display -------
